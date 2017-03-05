@@ -4,10 +4,9 @@
 	"version": "1.0.0",
 	"author": "Shawn Jonnet",
 	"dependencies": {
-		"hiredis": "0.x.x",
 		"migrate": "0.x.x",
-		"mongoose": "3.x.x",
-		"redis": "0.x.x"
+		"mongoose": "4.x.x",
+		"redis": "2.x.x"
 	},
 	"engines": {
 		"node": ">= 0.6.0"
